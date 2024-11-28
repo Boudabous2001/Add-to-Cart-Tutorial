@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"1 RULE WHEY",
+        "price": 120,
+        "image": "image1.png"
+    },
+    {
+        "id":2,
+        "name":"BCAA",
+        "price": 80,
+        "image": "image2.png"
+    },
+    {
+        "id":3,
+        "name":"A B E",
+        "price": 90,
+        "image": "image3.png"
+    },
+    {
+        "id":4,
+        "name":"Z I N C",
+        "price": 85,
+        "image": "image4.png"
+    },
+    {
+        "id":5,
+        "name":"FISH OIL",
+        "price": 100,
+        "image": "image5.png"
+    },
+    {
+        "id":6,
+        "name":"CREATINE",
+        "price": 135,
+        "image": "image6.png"
+    },
+    {
+        "id":7,
+        "name":"MULTIVITAMINES",
+        "price": 110,
+        "image": "image7.png"
+    },
+    {
+        "id":8,
+        "name":"BETA ALININE",
+        "price": 105,
+        "image": "image8.png"
+    }
+]
